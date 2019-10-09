@@ -1,10 +1,5 @@
 def my_hash
- me = {"name" => "Gina"}
- 
- 
-  # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
-
-
+ me = {"name" => "Gina", "city" => "NYC"}
 end
 
 def retrieval
